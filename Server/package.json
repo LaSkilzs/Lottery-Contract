@@ -1,0 +1,25 @@
+{
+  "name": "basiclotterycontract",
+  "version": "1.0.0",
+  "description": "lottery contract",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaSkilzs/Lottery-Contract.git"
+  },
+  "author": "LaFountain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaSkilzs/Lottery-Contract/issues"
+  },
+  "homepage": "https://github.com/LaSkilzs/Lottery-Contract#readme",
+  "devDependencies": {
+    "web3": "^1.0.0-beta.55"
+  }
+}
